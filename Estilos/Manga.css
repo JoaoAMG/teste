@@ -1,0 +1,240 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    
+}
+
+
+
+body {
+    background-image: url("../Imagens/background.jpg");
+    background-size: cover; 
+    backdrop-filter: blur(4px);
+    font-family: governor;
+}
+
+header{
+    background-color: #0C53A7;
+    padding: 20px;
+    font-family: governor;
+    color: rgb(238, 238, 51);
+}
+nav{
+    background-color: #0C53A7;
+}
+
+nav li{
+    display: inline-block;
+    
+}
+
+nav li a{
+    display: block;
+    font-family: governor;
+    text-decoration: none;
+    
+    color: whitesmoke;
+    text-shadow: black 8px 8px 8px 8px;
+    padding: 10px;
+
+    
+}
+nav li a:hover{
+    background-color: #2961a5;
+    color: yellow;
+}
+#login,#cad{    
+    padding: 5px;
+    width: 50px;
+    float: right;
+    
+}
+.dropmenu{
+    display: none;
+    position: absolute;
+    padding: 10px;
+}
+.dropmenu li{
+    display: block;
+    margin: 10px;
+}
+.drop:hover .dropmenu{
+    display: block;
+    text-align: center;
+    background-color: #2961a5;;
+    padding: 0px;
+
+}
+main{
+    background-color: whitesmoke;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    bottom: 5px;
+}
+section h1 {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 115px;
+    margin-right: 20%;
+   padding: 60px 10px;
+   font-family: governor;
+    color: #0C53A7;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: yellow;   
+    text-shadow: 4px 4px 4px black;
+}
+   
+    
+
+#luffy{
+    scale: 170%;
+    margin-left: 20%;
+
+
+    
+}
+img{
+    width: 172px;
+    height: 250px;
+    padding: 20px;
+    
+}
+.mang {
+    
+    
+    display: inline-block;
+    margin-top: 40px;
+}
+#op1 {
+    border: #2961a5;
+    border-radius: 7px;
+    background-color: #4b709e;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+#dh9 {
+    border: #2961a5;
+    border-radius: 7px;
+    background-color: #4b709e;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+#n48 {
+    border: #2961a5;
+    border-radius: 7px;
+    background-color: #4b709e;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+#db22 {
+    border: #2961a5;
+    border-radius: 7px;
+    background-color: #4b709e;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+#n72 {
+    border: #2961a5;
+    border-radius: 7px;
+    background-color: #4b709e;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+#dh1 {
+    border: #2961a5;
+    border-radius: 7px;
+    background-color: #4b709e;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+#dbs9 {
+    border: #2961a5;
+    border-radius: 7px;
+    background-color: #4b709e;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+#dh7 {
+    border: #2961a5;
+    border-radius: 7px;
+    background-color: #4b709e;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+#op105 {
+    border: #2961a5;
+    border-radius: 7px;
+    background-color: #4b709e;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+#op100 {
+    border: #2961a5;
+    border-radius: 7px;
+    background-color: #4b709e;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+#bk36 {
+    border: #2961a5;
+    border-radius: 7px;
+    background-color: #4b709e;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.mang a {
+    text-decoration: none;
+    color: white;
+    
+}
+
+footer {
+    
+    bottom: 0;
+    width: 100%;
+    height: 10%;
+    background-color: #0C53A7;
+    text-align: center;
+    font-family: governor;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
